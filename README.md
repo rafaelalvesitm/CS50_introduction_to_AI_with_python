@@ -1,15 +1,15 @@
 # Introdução a Inteligência artificial usando Python
-Repositório contendo as soluções para o curso [CS50 - Intrduction to Artificial Intelligence using Python](https://cs50.harvard.edu/ai/2020/) , realizado na [edx](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home).
+Repositório contendo as minhas soluções para o curso [CS50 - Intrduction to Artificial Intelligence using Python](https://cs50.harvard.edu/ai/2020/) , realizado na [edx](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home).
 
 ## Pastas
 
-- pset 0 - Problema [degrees](https://cs50.harvard.edu/ai/2020/projects/0/degrees/) e [tictactoe](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/)
-- pset 1 - Problema [Knights](https://cs50.harvard.edu/ai/2020/projects/1/knights/) e [minesweeper](https://cs50.harvard.edu/ai/2020/projects/1/minesweeper/)
-- pset 2 - Problema [heredity](https://cs50.harvard.edu/ai/2020/projects/2/heredity/) e [pagerank](https://cs50.harvard.edu/ai/2020/projects/2/pagerank/)
-- pset 3 - Problema [crossword](https://cs50.harvard.edu/ai/2020/projects/3/crossword/)
-- pset 4 - Problema [nim](https://cs50.harvard.edu/ai/2020/projects/4/nim/) e [shopping](https://cs50.harvard.edu/ai/2020/projects/4/shopping/)
-- pset 5 - Problema [traffic](https://cs50.harvard.edu/ai/2020/projects/5/traffic/)
-- pset 6 - Problema [parser](https://cs50.harvard.edu/ai/2020/projects/6/parser/) e [questions](https://cs50.harvard.edu/ai/2020/projects/6/questions/)
+- pset 0 - Problema [degrees](https://github.com/rafaelalvesitm/CS50_introduction_to_AI_with_python/tree/main/pset0/degrees) e [tictactoe](https://github.com/rafaelalvesitm/CS50_introduction_to_AI_with_python/tree/main/pset0/tictactoe)
+- pset 1 - Problema [Knights](https://github.com/rafaelalvesitm/CS50_introduction_to_AI_with_python/tree/main/pset1/knights) e [minesweeper](https://github.com/rafaelalvesitm/CS50_introduction_to_AI_with_python/tree/main/pset1/minesweeper)
+- pset 2 - Problema [heredity](https://github.com/rafaelalvesitm/CS50_introduction_to_AI_with_python/tree/main/pset2/heredity) e [pagerank](https://github.com/rafaelalvesitm/CS50_introduction_to_AI_with_python/tree/main/pset2/pagerank)
+- pset 3 - Problema [crossword](https://github.com/rafaelalvesitm/CS50_introduction_to_AI_with_python/tree/main/pset3/crossword)
+- pset 4 - Problema [nim](https://github.com/rafaelalvesitm/CS50_introduction_to_AI_with_python/tree/main/pset4/nim) e [shopping](https://github.com/rafaelalvesitm/CS50_introduction_to_AI_with_python/tree/main/pset4/shopping)
+- pset 5 - Problema [traffic](https://github.com/rafaelalvesitm/CS50_introduction_to_AI_with_python/tree/main/pset5/traffic)
+- pset 6 - Problema [parser](https://github.com/rafaelalvesitm/CS50_introduction_to_AI_with_python/tree/main/pset6/parser) e [questions](https://github.com/rafaelalvesitm/CS50_introduction_to_AI_with_python/tree/main/pset6/questions)
 
 ## Resumo das semanas 
 
